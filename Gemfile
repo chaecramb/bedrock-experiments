@@ -4,3 +4,4 @@ source "https://rubygems.org"
 
 gem "aws-sdk-bedrock"
 gem "aws-sdk-bedrockruntime"
+gem "rspec"
