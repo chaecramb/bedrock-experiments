@@ -5,3 +5,6 @@ source "https://rubygems.org"
 gem "aws-sdk-bedrock"
 gem "aws-sdk-bedrockruntime"
 gem "rspec"
+gem "byebug"
+
+gem "webmock", "~> 3.24"
